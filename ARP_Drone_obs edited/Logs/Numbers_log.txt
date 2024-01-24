@@ -1,0 +1,9 @@
+[2024-01-24 01:49:33] Number : 1 coordinates : x = 87 , y = 9
+[2024-01-24 01:49:33] Number : 2 coordinates : x = 0 , y = 14
+[2024-01-24 01:49:33] Number : 3 coordinates : x = 84 , y = 12
+[2024-01-24 01:49:33] Number : 4 coordinates : x = 75 , y = 18
+[2024-01-24 01:49:33] Number : 5 coordinates : x = 89 , y = 17
+[2024-01-24 01:49:33] Number : 6 coordinates : x = 72 , y = 11
+[2024-01-24 01:49:33] Number : 7 coordinates : x = 2 , y = 14
+[2024-01-24 01:49:33] Number : 8 coordinates : x = 63 , y = 7
+[2024-01-24 01:49:33] Number : 9 coordinates : x = 12 , y = 10

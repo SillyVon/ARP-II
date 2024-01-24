@@ -1,0 +1,78 @@
+[2024-01-24 01:49:33]The User interface is updated.
+ Drones coordinates are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The User interface is updated.
+ Drones coordinates are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The User interface is updated.
+ Drones coordinates are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The User interface is updated.
+ Drones coordinates are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The User interface is updated.
+ Drones coordinates are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The User interface is updated.
+ Drones coordinates are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The User interface is updated.
+ Drones coordinates are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The User interface is updated.
+ Drones coordinates are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The User interface is updated.
+ Drones coordinates are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The User interface is updated.
+ Drones coordinates are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The User interface is updated.
+ Drones coordinates are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The User interface is updated.
+ Drones coordinates are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The User interface is updated.
+ Drones coordinates are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The User interface is updated.
+ Drones coordinates are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The User interface is updated.
+ Drones coordinates are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The User interface is updated.
+ Drones coordinates are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The User interface is updated.
+ Drones coordinates are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The User interface is updated.
+ Drones coordinates are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The User interface is updated.
+ Drones coordinates are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The User interface is updated.
+ Drones coordinates are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The User interface is updated.
+ Drones coordinates are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The User interface is updated.
+ Drones coordinates are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The User interface is updated.
+ Drones coordinates are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The User interface is updated.
+ Drones coordinates are : (0.009091, 0.000000)
+[2024-01-24 01:49:33]The User interface is updated.
+ Drones coordinates are : (0.033959, 0.000000)
+[2024-01-24 01:49:33]The User interface is updated.
+ Drones coordinates are : (0.071867, 0.000000)
+[2024-01-24 01:49:33]The User interface is updated.
+ Drones coordinates are : (0.146998, 0.000000)
+[2024-01-24 01:49:33]The User interface is updated.
+ Drones coordinates are : (0.287601, 0.000000)
+[2024-01-24 01:49:33]The User interface is updated.
+ Drones coordinates are : (0.507935, 0.000000)
+[2024-01-24 01:49:33]The User interface is updated.
+ Drones coordinates are : (0.794161, 0.000000)
+[2024-01-24 01:49:33]The User interface is updated.
+ Drones coordinates are : (1.134844, 0.000000)
+[2024-01-24 01:49:33]The User interface is updated.
+ Drones coordinates are : (1.520532, 0.000000)
+[2024-01-24 01:49:33]The User interface is updated.
+ Drones coordinates are : (1.943415, 0.000000)
+[2024-01-24 01:49:33]The User interface is updated.
+ Drones coordinates are : (2.397038, 0.000000)
+[2024-01-24 01:49:33]The User interface is updated.
+ Drones coordinates are : (2.876065, 0.000000)
+[2024-01-24 01:49:33]The User interface is updated.
+ Drones coordinates are : (3.376086, 0.000000)
+[2024-01-24 01:49:33]The User interface is updated.
+ Drones coordinates are : (3.893460, 0.000000)
+[2024-01-24 01:49:33]The User interface is updated.
+ Drones coordinates are : (4.425173, 0.000000)
+[2024-01-24 01:49:33]The User interface is updated.
+ Drones coordinates are : (4.968738, 0.000000)

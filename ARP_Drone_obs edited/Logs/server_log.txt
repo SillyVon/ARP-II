@@ -1,0 +1,11 @@
+[2024-01-24 01:54:12]Forking a Main process
+[2024-01-24 01:54:12]Forking the Motion_Dynamics process
+[2024-01-24 01:54:12]Forking the Obstacle_Generator process
+[2024-01-24 01:54:12]Forking the Numbers_Generator process
+[2024-01-24 01:54:12]Forking the Watchdog process
+[2024-01-24 01:54:12]Process Main forked successfully,Process ID: 8803
+[2024-01-24 01:54:12]Process Motion_dynamics forked successfully,Process ID: 8804
+[2024-01-24 01:54:12]Process Obstacle_Generator forked successfully,Process ID: 8805
+[2024-01-24 01:54:12]Process Numbers_Generator forked successfully,Process ID: 8806
+[2024-01-24 01:54:12]Process Watchdog forked successfully,Process ID: 8807
+[2024-01-24 01:54:12]semaphore wait return value

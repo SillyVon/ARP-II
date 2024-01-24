@@ -1,0 +1,117 @@
+[2024-01-24 01:49:33]The process is updated.
+[2024-01-24 01:49:33]Forces updated on X and Y are : (0, 0)
+[2024-01-24 01:49:33] Coordinates updated are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The process is updated.
+[2024-01-24 01:49:33]Forces updated on X and Y are : (0, 0)
+[2024-01-24 01:49:33] Coordinates updated are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The process is updated.
+[2024-01-24 01:49:33]Forces updated on X and Y are : (0, 0)
+[2024-01-24 01:49:33] Coordinates updated are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The process is updated.
+[2024-01-24 01:49:33]Forces updated on X and Y are : (0, 0)
+[2024-01-24 01:49:33] Coordinates updated are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The process is updated.
+[2024-01-24 01:49:33]Forces updated on X and Y are : (0, 0)
+[2024-01-24 01:49:33] Coordinates updated are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The process is updated.
+[2024-01-24 01:49:33]Forces updated on X and Y are : (0, 0)
+[2024-01-24 01:49:33] Coordinates updated are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The process is updated.
+[2024-01-24 01:49:33]Forces updated on X and Y are : (0, 0)
+[2024-01-24 01:49:33] Coordinates updated are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The process is updated.
+[2024-01-24 01:49:33]Forces updated on X and Y are : (0, 0)
+[2024-01-24 01:49:33] Coordinates updated are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The process is updated.
+[2024-01-24 01:49:33]Forces updated on X and Y are : (0, 0)
+[2024-01-24 01:49:33] Coordinates updated are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The process is updated.
+[2024-01-24 01:49:33]Forces updated on X and Y are : (0, 0)
+[2024-01-24 01:49:33] Coordinates updated are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The process is updated.
+[2024-01-24 01:49:33]Forces updated on X and Y are : (0, 0)
+[2024-01-24 01:49:33] Coordinates updated are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The process is updated.
+[2024-01-24 01:49:33]Forces updated on X and Y are : (0, 0)
+[2024-01-24 01:49:33] Coordinates updated are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The process is updated.
+[2024-01-24 01:49:33]Forces updated on X and Y are : (0, 0)
+[2024-01-24 01:49:33] Coordinates updated are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The process is updated.
+[2024-01-24 01:49:33]Forces updated on X and Y are : (0, 0)
+[2024-01-24 01:49:33] Coordinates updated are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The process is updated.
+[2024-01-24 01:49:33]Forces updated on X and Y are : (0, 0)
+[2024-01-24 01:49:33] Coordinates updated are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The process is updated.
+[2024-01-24 01:49:33]Forces updated on X and Y are : (0, 0)
+[2024-01-24 01:49:33] Coordinates updated are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The process is updated.
+[2024-01-24 01:49:33]Forces updated on X and Y are : (0, 0)
+[2024-01-24 01:49:33] Coordinates updated are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The process is updated.
+[2024-01-24 01:49:33]Forces updated on X and Y are : (0, 0)
+[2024-01-24 01:49:33] Coordinates updated are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The process is updated.
+[2024-01-24 01:49:33]Forces updated on X and Y are : (0, 0)
+[2024-01-24 01:49:33] Coordinates updated are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The process is updated.
+[2024-01-24 01:49:33]Forces updated on X and Y are : (0, 0)
+[2024-01-24 01:49:33] Coordinates updated are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The process is updated.
+[2024-01-24 01:49:33]Forces updated on X and Y are : (0, 0)
+[2024-01-24 01:49:33] Coordinates updated are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The process is updated.
+[2024-01-24 01:49:33]Forces updated on X and Y are : (0, 0)
+[2024-01-24 01:49:33] Coordinates updated are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The process is updated.
+[2024-01-24 01:49:33]Forces updated on X and Y are : (0, 0)
+[2024-01-24 01:49:33] Coordinates updated are : (0.000000, 0.000000)
+[2024-01-24 01:49:33]The process is updated.
+[2024-01-24 01:49:33]Forces updated on X and Y are : (0, 0)
+[2024-01-24 01:49:33] Coordinates updated are : (0.017355, 0.000000)
+[2024-01-24 01:49:33]The process is updated.
+[2024-01-24 01:49:33]Forces updated on X and Y are : (0, 0)
+[2024-01-24 01:49:33] Coordinates updated are : (0.049054, 0.000000)
+[2024-01-24 01:49:33]The process is updated.
+[2024-01-24 01:49:33]Forces updated on X and Y are : (1, 0)
+[2024-01-24 01:49:33] Coordinates updated are : (0.101698, 0.000000)
+[2024-01-24 01:49:33]The process is updated.
+[2024-01-24 01:49:33]Forces updated on X and Y are : (2, 0)
+[2024-01-24 01:49:33] Coordinates updated are : (0.206362, 0.000000)
+[2024-01-24 01:49:33]The process is updated.
+[2024-01-24 01:49:33]Forces updated on X and Y are : (3, 0)
+[2024-01-24 01:49:33] Coordinates updated are : (0.388729, 0.000000)
+[2024-01-24 01:49:33]The process is updated.
+[2024-01-24 01:49:33]Forces updated on X and Y are : (3, 0)
+[2024-01-24 01:49:33] Coordinates updated are : (0.643577, 0.000000)
+[2024-01-24 01:49:33]The process is updated.
+[2024-01-24 01:49:33]Forces updated on X and Y are : (3, 0)
+[2024-01-24 01:49:33] Coordinates updated are : (0.958329, 0.000000)
+[2024-01-24 01:49:33]The process is updated.
+[2024-01-24 01:49:33]Forces updated on X and Y are : (3, 0)
+[2024-01-24 01:49:33] Coordinates updated are : (1.322586, 0.000000)
+[2024-01-24 01:49:33]The process is updated.
+[2024-01-24 01:49:33]Forces updated on X and Y are : (3, 0)
+[2024-01-24 01:49:33] Coordinates updated are : (1.727757, 0.000000)
+[2024-01-24 01:49:33]The process is updated.
+[2024-01-24 01:49:33]Forces updated on X and Y are : (3, 0)
+[2024-01-24 01:49:33] Coordinates updated are : (2.166741, 0.000000)
+[2024-01-24 01:49:33]The process is updated.
+[2024-01-24 01:49:33]Forces updated on X and Y are : (3, 0)
+[2024-01-24 01:49:33] Coordinates updated are : (2.633671, 0.000000)
+[2024-01-24 01:49:33]The process is updated.
+[2024-01-24 01:49:33]Forces updated on X and Y are : (3, 0)
+[2024-01-24 01:49:33] Coordinates updated are : (3.123695, 0.000000)
+[2024-01-24 01:49:33]The process is updated.
+[2024-01-24 01:49:33]Forces updated on X and Y are : (3, 0)
+[2024-01-24 01:49:33] Coordinates updated are : (3.632806, 0.000000)
+[2024-01-24 01:49:33]The process is updated.
+[2024-01-24 01:49:33]Forces updated on X and Y are : (3, 0)
+[2024-01-24 01:49:33] Coordinates updated are : (4.157691, 0.000000)
+[2024-01-24 01:49:33]The process is updated.
+[2024-01-24 01:49:33]Forces updated on X and Y are : (3, 0)
+[2024-01-24 01:49:33] Coordinates updated are : (4.695611, 0.000000)
+[2024-01-24 01:49:33]The process is updated.
+[2024-01-24 01:49:33]Forces updated on X and Y are : (3, 0)
+[2024-01-24 01:49:33] Coordinates updated are : (5.244307, 0.000000)
